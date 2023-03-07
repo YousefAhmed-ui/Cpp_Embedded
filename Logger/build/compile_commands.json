@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/iti_9m_diploma/CPPPPP/Logger/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Logger.dir/main.cpp.obj -c D:/iti_9m_diploma/CPPPPP/Logger/main.cpp",
+  "file": "D:/iti_9m_diploma/CPPPPP/Logger/main.cpp"
+},
+{
+  "directory": "D:/iti_9m_diploma/CPPPPP/Logger/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Logger.dir/CppLogger.cpp.obj -c D:/iti_9m_diploma/CPPPPP/Logger/CppLogger.cpp",
+  "file": "D:/iti_9m_diploma/CPPPPP/Logger/CppLogger.cpp"
+}
+]
